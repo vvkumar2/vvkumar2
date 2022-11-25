@@ -1,16 +1,11 @@
-### Hi there 👋
+## Hi, Welcome To My GitHub
 
-<!--
-**vvkumar2/vvkumar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![Profile Badge](https://img.shields.io/badge/Profile-koza-63d8fa?logo=github&style=for-the-badge&link=https://github.com/kozzza)
+![Github stats](https://img.shields.io/github/followers/kozzza?color=63d8fa&label=FOLLOWERS&logo=github&style=for-the-badge)
+ -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vvkumar2&hide=stars&show_icons=true&theme=react&custom_title=Github%20Stats&include_all_commits=trues" height="170"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvkumar2&exclude_repo=stock-prediction-lstm&layout=compact&custom_title=Language%20Distribution&bg_color=21232a&title_color=63d8fa&text_color=fefefe" height="170"/>
+</a>
